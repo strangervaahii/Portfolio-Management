@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Logesh
+Build-Jdk: 17.0.2
+Implementation-Title: DailyMutualFundNAV
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cts.dailymutualfundnav
+Implementation-URL: https://spring.io/projects/spring-boot/DailyMutualFu
+ ndNAV
+Created-By: Maven Integration for Eclipse
+

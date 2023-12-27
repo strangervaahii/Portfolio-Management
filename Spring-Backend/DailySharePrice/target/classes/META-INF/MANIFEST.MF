@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Logesh
+Build-Jdk: 17.0.2
+Implementation-Title: DailySharePrice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cts.dailyshareprice
+Implementation-URL: https://spring.io/projects/spring-boot/DailySharePri
+ ce
+Created-By: Maven Integration for Eclipse
+
